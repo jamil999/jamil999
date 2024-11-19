@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sk Jamil Hossain  
-🚀 Recent Computer Science Graduate | 💻 Full-Stack Developer | 🤖 Generative AI and Machine Learning Enthusiast  
+🚀 Recent Computer Science Graduate | 💻 Django Developer | 🤖 Generative AI and Machine Learning Enthusiast  
 
 ### About Me  
 I am a recent graduate in Computer Science and Engineering from BRAC University with a passion for solving complex problems through technology and innovation.  
