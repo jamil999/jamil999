@@ -20,7 +20,7 @@ I am a recent graduate in Computer Science and Engineering from BRAC University 
 
 ### 💼 Projects  
 - **[Art and Museum Exploration Platform](#):** Explore art and museum data through an interactive web platform.  
-- **[Carrom Board Game Simulation](#):** Developed a graphical simulation of the classic Carrom board game.  
+- **[Carrom Board Game (Graphical Simulation)](#):** Developed a graphical simulation of the classic Carrom board game.  
 
 ### 🔬 Research  
 - **Machine Learning in Astronomy:** Leveraged contrastive learning to detect exoplanets and stars.  
